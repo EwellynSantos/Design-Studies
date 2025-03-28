@@ -36,7 +36,7 @@ Um wireframe é uma representação visual simplificada da estrutura e da dispos
 
 É apenas um rascunho da disposição dos elementos em tela:
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@ Um wireframe é uma representação visual simplificada da estrutura e da dispos
 
 É colocado em tela os elementos discutidos, mas sem imagnes, cores ou algo do tipo, pois ainda nao possui o branding do cliente.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
