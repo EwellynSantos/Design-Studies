@@ -9,7 +9,7 @@ A experiência do usuário existe desde que o mundo é mundo. Ou seja, desde que
 
 
 * Entende o problema
-* Propê soluções
+* Propõe soluções
 * Realiza pesquisas
 * Entende o usuário
 * Entende o negócio
