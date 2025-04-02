@@ -6,3 +6,6 @@
 * [Fundamentos da Arquitetura de Informação](fundamentos-da-arquitetura-de-informacao.md)
 * [Componentes da AI](componentes-da-ai.md)
 * [Usabilidade](usabilidade.md)
+* [Briefing](briefing.md)
+* [Heurísticas de Nielsen](heuristicas-de-nielsen.md)
+* [UX Design](ux-design.md)
